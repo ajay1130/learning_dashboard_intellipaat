@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The system stretches the splash icon over a square canvas and clips it to a circle
+     two thirds that size. These insets keep the 2.88:1 logo inside the circle, at the
+     same size as the logo on the Compose splash (161dp of a 288dp canvas). -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/intellipaat_logo"
+    android:insetLeft="22%"
+    android:insetRight="22%"
+    android:insetTop="40.3%"
+    android:insetBottom="40.3%" />

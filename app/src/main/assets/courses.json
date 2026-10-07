@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "lessons": [
+      { "id": 101, "title": "Introduction", "completed": true },
+      { "id": 102, "title": "Variables & Data Types", "completed": true },
+      { "id": 103, "title": "Control Flow", "completed": true },
+      { "id": 104, "title": "Functions", "completed": true },
+      { "id": 105, "title": "Collections", "completed": true },
+      { "id": 106, "title": "OOP", "completed": false },
+      { "id": 107, "title": "Error Handling", "completed": false },
+      { "id": 108, "title": "Modules & Packages", "completed": false }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "lessons": [
+      { "id": 201, "title": "What is Generative AI", "completed": true },
+      { "id": 202, "title": "Large Language Models", "completed": true },
+      { "id": 203, "title": "Prompt Engineering", "completed": false },
+      { "id": 204, "title": "Embeddings & Vector Search", "completed": false },
+      { "id": 205, "title": "Retrieval Augmented Generation", "completed": false }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "lessons": [
+      { "id": 301, "title": "How the Web Works", "completed": true },
+      { "id": 302, "title": "HTML & CSS", "completed": true },
+      { "id": 303, "title": "JavaScript Basics", "completed": false },
+      { "id": 304, "title": "React Fundamentals", "completed": false },
+      { "id": 305, "title": "REST APIs with Node", "completed": false },
+      { "id": 306, "title": "Databases", "completed": false },
+      { "id": 307, "title": "Authentication", "completed": false },
+      { "id": 308, "title": "Deployment", "completed": false }
+    ]
+  }
+]
