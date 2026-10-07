@@ -2,7 +2,7 @@
 
 Kotlin · Jetpack Compose · Hilt · Room · DataStore · Coroutines/Flow · Navigation Compose
 
-**[Download APK & demo video (v1.0)](https://github.com/ajay1130/learning_dashboard_intellipaat/releases/tag/v1.0)**
+**[Demo video](https://github.com/ajay1130/learning_dashboard_intellipaat/releases/download/v1.0/learning-dashboard-demo.webm) · [Download APK](https://github.com/ajay1130/learning_dashboard_intellipaat/releases/download/v1.0/learning-dashboard-v1.0.apk) · [Release v1.0](https://github.com/ajay1130/learning_dashboard_intellipaat/releases/tag/v1.0)**
 
 **Demo login:** `demo@learn.com` / `password123` · **Tests:** `./gradlew testDebugUnitTest` · **APK:** `./gradlew assembleDebug` · [Screenshots](docs/screenshots)
 
